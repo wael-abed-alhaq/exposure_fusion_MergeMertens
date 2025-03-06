@@ -3,7 +3,7 @@ Created on Mon Nov 14 14:47:32 2022
 @author: wael
 """
 import os
-import cv2  
+import cv2  # OpenCV library
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib import gridspec
