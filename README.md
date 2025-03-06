@@ -1,5 +1,5 @@
 ﻿# exposure_fusion_MergeMertens
-#Overview
+# Overview
 
 This project implements an exposure fusion technique using OpenCV's MergeMertens method. The algorithm aligns multiple exposure images, merges them using weighted exposure fusion, and enhances the final output through sharpening and brightness adjustment.
 
